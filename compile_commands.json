@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/user/Mine/raytracer",
+  "command": "/usr/bin/c++    -g   -std=gnu++1z -o CMakeFiles/raytracer.dir/main.cpp.o -c /home/user/Mine/raytracer/main.cpp",
+  "file": "/home/user/Mine/raytracer/main.cpp"
+}
+]
